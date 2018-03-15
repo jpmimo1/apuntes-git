@@ -18,6 +18,3 @@ git config --global user.email paul.fa.ac@gmail.com
 git config --global core.editor code
 git config --list
 ```
-
-## Aportes desde otra cuenta
-Este texto fue aportado desde la cuenta de jpmimo1
